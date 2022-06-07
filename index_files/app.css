@@ -1,0 +1,2 @@
+.rimg img,.scp-image-block img{vertical-align:middle}#site-in-dev-warning{position:absolute;right:0;bottom:40px;background:red;border:2px solid white;box-shadow:0 0 0 3px red;color:#fff;display:flex;align-items:center;max-width:400px;padding:8px}#site-in-dev-warning img{width:48px;height:48px}#site-in-dev-warning>div{margin-left:16px}#site-in-dev-warning h4{margin:0;padding:0}#site-in-dev-warning p{margin:8px 0 0;padding:0;font-size:12px}@media (max-width: 849px){#site-in-dev-warning{inset:3px 3px 24px;max-width:none}}
+/*# sourceMappingURL=app.css.map */
